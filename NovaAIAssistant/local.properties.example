@@ -1,0 +1,4 @@
+## إعدادات المفتاح السري لـ Gemini API
+## انسخ هذا الملف إلى local.properties وضع مفتاحك:
+sdk.dir=/Users/YOUR_USER/Library/Android/sdk
+GEMINI_API_KEY=AIzaSyYourActualKeyHere
